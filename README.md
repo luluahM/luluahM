@@ -9,11 +9,9 @@
   <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Luluah/Luluah/blob/master/profile-img.png" align="right" width="25%"/>
-</p>
 
-I'm a CS undergraduate at **King Abdulaziz University**, Jeddah.  
+
+I'm a CS student at **King Abdulaziz University**, Jeddah.  
 I love learning new technologies and contributing to open source.  
 Currently exploring **Front-End Development**,  **CSS**, **HTML**, and **UI/UX Design**. 🌱
 
